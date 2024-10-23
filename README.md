@@ -42,4 +42,4 @@ This project was inspired by live session of upGrad on EDA
 UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
 
 ## Contact
-Collaborated by [@RJ-1111] and Saad Teli
+Collaborated by [@RJ-1111] Rijumani Deka and Saad Teli
