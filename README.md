@@ -23,12 +23,30 @@ When a person applies for a loan, there are two types of decisions that could be
   - Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
 
 ## Conclusions
- - Smaller loan amounts are more likely to be defaulted
- - Loans takeen for shorter term of 36 months are generally more defaulted
- - Loans approved during the last months of the year are more defaulted
- - Significant number of defaulters are from 2011.
- - Loan who have house on mortgage are significantly high in number of defaulters
- - Loans for small businesses and home improvements are generally defaulted
+ - the grade is B.
+ - taking loans to clear other debts
+ - having ownership of the house as Rent
+ - loans are taken for interest rates of 10-20%
+ - open credit lines in the borrower's credit file is 2-20
+ - the amount of credit the borrower has used relative to all available revolving credit its very much likely by 40-100%.
+ - annual income is between 31K - 58K
+ - installments are 145-274. Higher the installments, more likely to default.
+ - loan amounts applied for are really small, like, 5K-10K.
+ - DTI is between 12-18.
+ - loans applied for longer term of 36 months.
+ - verification status is 'Not Verified'.
+ - there are 0 inquiries in the last 6 months.
+ - loan is issued during the last months of the year, say, December.
+ - most defaulters are from the year of issue 2011.
+ - home ownership is Mortgage type, and income is between 60-70K. Even though, fully paid and charged off loan statuses are going hand in hand. We cannot really categorize on this data.
+ - loans are taken for home improvement, and have income in between 60-70K.
+ - annual income is 112-140K, with loan amount of 15-17.5K
+ - loan amount availed is 25-30K, with 16-17.5 interest rate.
+ - loan taken for small businesses with an amount 14-15k.
+ - loans are taken in the December month of the year in between 12-13K.
+ - loans taken in the year 2011, in between amount of 12-13k.
+ - loan taken between 17.5-20K by grade F.
+ - loans taken with interest rates of 17.5-20%, for amounts between 25-35K.
 
 ## Technologies Used
 Python 
